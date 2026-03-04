@@ -1,0 +1,90 @@
+A1 	 Acc. 	 GPT vs. Claude 	 n=25 	 p=0.564 
+A1 	 Acc. 	 GPT vs. Gemini 	 n=25 	 p=0.564 
+A1 	 Acc. 	 GPT vs. Llama  	 n=25 	 p=0.0292 	*
+A1 	 Acc. 	 Claude vs. Gemini 	 n=25 	 p=1 
+A1 	 Acc. 	 Claude vs. Llama  	 n=25 	 p=0.05 
+A1 	 Acc. 	 Gemini vs. Llama  	 n=25 	 p=0.05 
+
+A2 	 Acc. 	 GPT vs. Claude 	 n=19 	 p=0.317 
+A2 	 Acc. 	 GPT vs. Gemini 	 n=19 	 p=0.157 
+A2 	 Acc. 	 GPT vs. Llama  	 n=19 	 p=0.00387 	**
+A2 	 Acc. 	 Claude vs. Gemini 	 n=19 	 p=0.564 
+A2 	 Acc. 	 Claude vs. Llama  	 n=19 	 p=0.00609 	**
+A2 	 Acc. 	 Gemini vs. Llama  	 n=19 	 p=0.00699 	**
+
+A3 	 Acc. 	 GPT vs. Claude 	 n=30 	 p=0.257 
+A3 	 Acc. 	 GPT vs. Gemini 	 n=30 	 p=0.187 
+A3 	 Acc. 	 GPT vs. Llama  	 n=30 	 p=0.00025 	***
+A3 	 Acc. 	 Claude vs. Gemini 	 n=30 	 p=0.453 
+A3 	 Acc. 	 Claude vs. Llama  	 n=30 	 p=0.000595 	***
+A3 	 Acc. 	 Gemini vs. Llama  	 n=30 	 p=0.000443 	***
+
+B1 	 Acc. 	 GPT vs. Claude 	 n=22 	 p=0.12 
+B1 	 Acc. 	 GPT vs. Gemini 	 n=22 	 p=0.47 
+B1 	 Acc. 	 GPT vs. Llama  	 n=22 	 p=0.00411 	**
+B1 	 Acc. 	 Claude vs. Gemini 	 n=22 	 p=0.234 
+B1 	 Acc. 	 Claude vs. Llama  	 n=22 	 p=0.000796 	***
+B1 	 Acc. 	 Gemini vs. Llama  	 n=22 	 p=0.000746 	***
+
+B2 	 Acc. 	 GPT vs. Claude 	 n=24 	 p=0.0231 	*
+B2 	 Acc. 	 GPT vs. Gemini 	 n=24 	 p=0.264 
+B2 	 Acc. 	 GPT vs. Llama  	 n=24 	 p=0.000796 	***
+B2 	 Acc. 	 Claude vs. Gemini 	 n=24 	 p=0.26 
+B2 	 Acc. 	 Claude vs. Llama  	 n=24 	 p=6.36e-05 	***
+B2 	 Acc. 	 Gemini vs. Llama  	 n=24 	 p=0.000168 	***
+B2 	 Logic 	 GPT vs. Claude 	 n=24 	 p=0.0516 
+B2 	 Logic 	 GPT vs. Gemini 	 n=24 	 p=0.313 
+B2 	 Logic 	 GPT vs. Llama  	 n=24 	 p=0.000256 	***
+B2 	 Logic 	 Claude vs. Gemini 	 n=24 	 p=0.579 
+B2 	 Logic 	 Claude vs. Llama  	 n=24 	 p=5.96e-05 	***
+B2 	 Logic 	 Gemini vs. Llama  	 n=24 	 p=8.04e-05 	***
+
+B3 	 Acc. 	 GPT vs. Claude 	 n=31 	 p=1 
+B3 	 Acc. 	 GPT vs. Gemini 	 n=31 	 p=0.0702 
+B3 	 Acc. 	 GPT vs. Llama  	 n=31 	 p=1.05e-05 	***
+B3 	 Acc. 	 Claude vs. Gemini 	 n=31 	 p=0.124 
+B3 	 Acc. 	 Claude vs. Llama  	 n=31 	 p=1.37e-05 	***
+B3 	 Acc. 	 Gemini vs. Llama  	 n=31 	 p=0.000108 	***
+B3 	 Logic 	 GPT vs. Claude 	 n=31 	 p=0.145 
+B3 	 Logic 	 GPT vs. Gemini 	 n=31 	 p=0.346 
+B3 	 Logic 	 GPT vs. Llama  	 n=31 	 p=2.11e-05 	***
+B3 	 Logic 	 Claude vs. Gemini 	 n=31 	 p=0.0461 	*
+B3 	 Logic 	 Claude vs. Llama  	 n=31 	 p=1.8e-05 	***
+B3 	 Logic 	 Gemini vs. Llama  	 n=31 	 p=0.000122 	***
+
+C1 	 Comp. 	 GPT vs. Claude 	 n=26 	 p=0.0253 	*
+C1 	 Comp. 	 GPT vs. Gemini 	 n=26 	 p=0.0139 	*
+C1 	 Comp. 	 GPT vs. Llama  	 n=26 	 p=0.000136 	***
+C1 	 Comp. 	 Claude vs. Gemini 	 n=26 	 p=0.305 
+C1 	 Comp. 	 Claude vs. Llama  	 n=26 	 p=0.000979 	***
+C1 	 Comp. 	 Gemini vs. Llama  	 n=26 	 p=0.00125 	**
+C1 	 Logic 	 GPT vs. Claude 	 n=26 	 p=0.405 
+C1 	 Logic 	 GPT vs. Gemini 	 n=26 	 p=0.106 
+C1 	 Logic 	 GPT vs. Llama  	 n=26 	 p=0.000443 	***
+C1 	 Logic 	 Claude vs. Gemini 	 n=26 	 p=0.0184 	*
+C1 	 Logic 	 Claude vs. Llama  	 n=26 	 p=0.00023 	***
+C1 	 Logic 	 Gemini vs. Llama  	 n=26 	 p=0.00421 	**
+C1 	 Sat. 	 GPT vs. Claude 	 n=26 	 p=0.544 
+C1 	 Sat. 	 GPT vs. Gemini 	 n=26 	 p=0.153 
+C1 	 Sat. 	 GPT vs. Llama  	 n=26 	 p=6.2e-05 	***
+C1 	 Sat. 	 Claude vs. Gemini 	 n=26 	 p=0.116 
+C1 	 Sat. 	 Claude vs. Llama  	 n=26 	 p=7.49e-05 	***
+C1 	 Sat. 	 Gemini vs. Llama  	 n=26 	 p=0.000126 	***
+
+C2 	 Comp. 	 GPT vs. Gemini 	 n=23 	 p=0.0833 
+C2 	 Comp. 	 GPT vs. Llama  	 n=23 	 p=0.000246 	***
+C2 	 Comp. 	 Claude vs. Gemini 	 n=23 	 p=0.0833 
+C2 	 Comp. 	 Claude vs. Llama  	 n=23 	 p=0.000246 	***
+C2 	 Comp. 	 Gemini vs. Llama  	 n=23 	 p=0.000565 	***
+C2 	 Logic 	 GPT vs. Claude 	 n=23 	 p=0.763 
+C2 	 Logic 	 GPT vs. Gemini 	 n=23 	 p=0.317 
+C2 	 Logic 	 GPT vs. Llama  	 n=23 	 p=0.000171 	***
+C2 	 Logic 	 Claude vs. Gemini 	 n=23 	 p=0.102 
+C2 	 Logic 	 Claude vs. Llama  	 n=23 	 p=0.000177 	***
+C2 	 Logic 	 Gemini vs. Llama  	 n=23 	 p=0.000212 	***
+C2 	 Sat. 	 GPT vs. Claude 	 n=23 	 p=0.763 
+C2 	 Sat. 	 GPT vs. Gemini 	 n=23 	 p=0.101 
+C2 	 Sat. 	 GPT vs. Llama  	 n=23 	 p=4.45e-05 	***
+C2 	 Sat. 	 Claude vs. Gemini 	 n=23 	 p=0.0845 
+C2 	 Sat. 	 Claude vs. Llama  	 n=23 	 p=2.62e-05 	***
+C2 	 Sat. 	 Gemini vs. Llama  	 n=23 	 p=6.36e-05 	***
