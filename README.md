@@ -7,9 +7,9 @@ This is an open-ended visual question answering benchmark built from recent opto
 ## Dataset
 
 - The dataset consists of vision and reasoning tasks that represent complexity, multimodality, and reasoning challenges, where the LLMs need to produce long-text responses to fully address the question. 
-- Category A: Numerical & Text Extraction - whether LLMs can directly extract numerical values, text, and simple trends from visual data, evaluated by accuracy against author-provided annotations.
+- Category A: Numerical & Text Extraction - whether LLMs can directly extract numerical values, text, and simple trends from visual data.
 - Category B: Visual & Logical Inference - whether LLMs can derive implicit numerical values, interpret complex visual patterns (e.g., heatmaps), and compare multiple data trends through reasoning.
-- Category C: Hypothesis Validation - whether LLMs can correlate experimental figures with textual claims to validate single- and multi-modal scientific hypotheses, measured by reasoning quality, comprehensiveness, and expert satisfaction.
+- Category C: Hypothesis Validation - whether LLMs can correlate experimental figures with textual claims to validate single- and multi-modal scientific hypotheses.
 
 ![](https://github.com/Kangyu-Ji/MatLongVQA/blob/main/Figure/Fig1.png)
 
