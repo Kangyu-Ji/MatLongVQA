@@ -11,7 +11,7 @@ This is an open-ended visual question answering benchmark built from recent opto
 - Category B assesses whether LLMs can perform logical and visual inference from figures and context, including deriving implicit values, interpreting complex visual cues, and comparing trends across datasets.
 - Category C tests whether LLMs can correlate experimental figures with textual claims to validate single- or multi-modal scientific hypotheses, evaluated using logical reasoning, comprehensiveness, and expert satisfaction metrics.
 
-![alt text](https://github.com/Kangyu-Ji/MatLongVQA/tree/main/Figure/Fig 1.png?raw=true)
+![alt text](https://github.com/Kangyu-Ji/MatLongVQA/tree/main/Figure/Fig1.png?raw=true)
 
 ## Software dependencies
 - Python 3.13.0, then pip install the following package
